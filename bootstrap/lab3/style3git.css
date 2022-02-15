@@ -1,0 +1,23 @@
+.demo{
+	font-size: 30px;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+.form-custom{
+    border-radius: 10px; 
+}
+
+ .link{
+    float: right;
+    font-size: 13px;
+}
+
+.fa{
+   align: center;
+}
+
+.nav{
+   margin-top: 130px;
+   font-size: 13px;
+}
